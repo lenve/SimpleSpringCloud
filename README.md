@@ -3,8 +3,8 @@
 ### 案例详解地址
 |案例|案例详解地址|
 |-------------|:-------------:|
-|eureka-server|[使用Spring Cloud搭建服务注册中心](http://blog.csdn.net/u012702547/article/details/77803564)|
-|provider|[使用Spring Cloud搭建服务注册中心](http://blog.csdn.net/u012702547/article/details/77803564)|
+|eureka-server|[使用Spring Cloud搭建服务注册中心](http://blog.csdn.net/u012702547/article/details/77803564)/[使用Spring Cloud搭建高可用服务注册中心](http://blog.csdn.net/u012702547/article/details/77823434)|
+|provider|[使用Spring Cloud搭建服务注册中心](http://blog.csdn.net/u012702547/article/details/77803564)/[使用Spring Cloud搭建高可用服务注册中心](http://blog.csdn.net/u012702547/article/details/77823434)|
 
 
 ##### 更多JavaWeb资料欢迎小伙伴访问我的个人博客:
