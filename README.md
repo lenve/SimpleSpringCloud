@@ -6,6 +6,7 @@
 |eureka-server|[使用Spring Cloud搭建服务注册中心](http://blog.csdn.net/u012702547/article/details/77803564)/[使用Spring Cloud搭建高可用服务注册中心](http://blog.csdn.net/u012702547/article/details/77823434)|
 |provider|[使用Spring Cloud搭建服务注册中心](http://blog.csdn.net/u012702547/article/details/77803564)/[使用Spring Cloud搭建高可用服务注册中心](http://blog.csdn.net/u012702547/article/details/77823434)|
 |ribbon-consumer|[Spring Cloud中服务的发现与消费](http://blog.csdn.net/u012702547/article/details/77862836)|
+|RestTemplate|[Spring RestTemplate中几种常见的请求方式](http://blog.csdn.net/u012702547/article/details/77917939)|
 
 
 ##### 更多JavaWeb资料欢迎小伙伴访问我的个人博客:
